@@ -2,6 +2,8 @@
 
 after installing, press " ctrl + shift + p " and run " > happydev " command.
 
+![How To install](https://www.canva.com/design/DAFmKqcSVDM/kTpKIolRba3Qx6WnMz4ZMQ/watch?utm_content=DAFmKqcSVDM&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
 ![How To Run Happy-Dev](https://iili.io/H6swJ3v.gif)
 
 happy-dev README
