@@ -1,7 +1,8 @@
 {
   "name": "happy-dev",
   "displayName": "Happy Dev",
-  "description": "This is the README for your extension \"happy-dev\". After writing up a brief description, we recommend including the following sections.",
+  "publisher": "shehanmaxwell",
+  "description": "Introducing 'Happy Dev' - the plugin that'll make your code feel like a party! Get ready to experience coding like never before, with a touch of humor and a sprinkle of fun. Picture your coding journey infused with a lighthearted atmosphere and a delightful distraction whenever you need a quick break or a mood boost.",
   "version": "0.0.1",
   "icon": "images/icon.png",
   "engines": {
@@ -42,7 +43,6 @@
     "@types/glob": "^8.1.0",
     "@types/mocha": "^10.0.1",
     "@types/node": "20.2.5",
-    "@types/vscode": "^1.79.0",
     "@vscode/test-electron": "^2.3.2",
     "eslint": "^8.41.0",
     "glob": "^8.1.0",
@@ -183,7 +183,6 @@
     "type-fest": "^0.20.2",
     "uri-js": "^4.4.1",
     "util-deprecate": "^1.0.2",
-    "vscode": "^1.1.37",
     "which": "^2.0.2",
     "word-wrap": "^1.2.3",
     "workerpool": "^6.2.1",
@@ -196,9 +195,30 @@
     "yargs-unparser": "^2.0.0",
     "yocto-queue": "^0.1.0"
   },
-  "keywords": [],
+  "keywords": [
+    "vscode",
+    "extension",
+    "plugin",
+    "happy",
+    "fun",
+    "humor",
+    "shehanmaxwell",
+    "funny",
+    "development",
+    "happy-dev",
+    "smiley",
+    "usefull",
+    "most popular",
+    "topten",
+    "relax",
+    "entertainment",
+    "happy coder",
+    "javascript",
+    "funny",
+    "best"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "viewsContainers": {
     "activityBar": [
       {
@@ -208,5 +228,15 @@
         "command": "happy-dev.helloWorld"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShehanMaxwell/happy-dev"
+  },
+  "__metadata": {
+    "id": "bcf0a166-ab01-44fa-949b-8f870fca4eb3",
+    "publisherDisplayName": "shehan maxwell",
+    "publisherId": "d8f966e0-5407-4af8-8c80-c89da392d036",
+    "isPreReleaseVersion": false
   }
 }
