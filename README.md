@@ -2,7 +2,7 @@
 
 After installing, press " ctrl + shift + p " and run " > happydev " command.
 
-![How To install](https://iili.io/H6swJ3v.gifhttps://iili.io/H6sSY5G.gif)
+![How To install](https://freeimage.host/i/install.H6sSY5G)
 
 ![How To Run Happy-Dev](https://iili.io/H6swJ3v.gif)
 
