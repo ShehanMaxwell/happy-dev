@@ -1,12 +1,11 @@
 ~ How to run ~
 
-after installing, press " ctrl + shift + p " and run " > happydev " command.
+After installing, press " ctrl + shift + p " and run " > happydev " command.
 
-![How To install](https://www.canva.com/design/DAFmKqcSVDM/kTpKIolRba3Qx6WnMz4ZMQ/watch?utm_content=DAFmKqcSVDM&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![How To install](https://iili.io/H6swJ3v.gifhttps://iili.io/H6sSY5G.gif)
 
 ![How To Run Happy-Dev](https://iili.io/H6swJ3v.gif)
 
-happy-dev README
 Welcome to "happy-dev" extension! This extension is designed to bring a little cheer and relaxation to developers when they need a quick mood boost. By running the "happydev" command using the keyboard shortcut Ctrl+Shift+P, you'll be greeted with a funny message to brighten your day.
 
 Features
