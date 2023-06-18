@@ -3,7 +3,7 @@
   "displayName": "Happy Dev",
   "publisher": "shehanmaxwell",
   "description": "Introducing 'Happy Dev' - the plugin that'll make your code feel like a party! Get ready to experience coding like never before, with a touch of humor and a sprinkle of fun. Picture your coding journey infused with a lighthearted atmosphere and a delightful distraction whenever you need a quick break or a mood boost.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.70.2"
