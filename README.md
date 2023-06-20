@@ -7,7 +7,27 @@ After installing, press " ctrl + shift + p " and run " > happydev " command.
 
 ![How To Run Happy-Dev](https://iili.io/H6swJ3v.gif)
 
-Welcome to "happy-dev" extension! This extension is designed to bring a little cheer and relaxation to developers when they need a quick mood boost. By running the "happydev" command using the keyboard shortcut Ctrl+Shift+P, you'll be greeted with a funny message to brighten your day.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~introduction~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A plugin developed for vs code. you download it for free from visual studio code marketplace or from the extensions menu search bar. Just type "happydev"
+
+🚀 Exciting Announcement: Introducing "Happy Dev" - Boost Your Coding Experience with Fun and Laughter! 🎉
+Are you a developer who loves coding but sometimes needs a little mood booster during those intense coding sessions? Look no further! I'm thrilled to introduce you to "Happy Dev," the ultimate plugin designed to add a touch of fun and laughter to your coding experience. 💻😄
+With "Happy Dev," you'll unlock a whole new level of enjoyment while writing code. It's like having a cheerful companion by your side, injecting humor and positivity into your development journey. Imagine those moments when you hit a stumbling block or need a break – "Happy Dev" will be there to put a smile on your face and lift your spirits. 😊
+Features of "Happy Dev" include:
+🎈 Quick access to a command that generates funny messages within your code.
+🎈 Hilarious one-liners to lighten up your coding environment.
+🎈 A delightful distraction and a reminder to have fun while coding.
+🎈 Instant mood booster for those moments when you need a break.
+But "Happy Dev" isn't just about the laughs – it's designed to enhance your productivity too! Studies have shown that humor can increase creativity, reduce stress, and improve problem-solving abilities. By incorporating humor into your coding routine, you'll find yourself approaching challenges with a fresh perspective and a positive mindset.
+So, fellow developers, let's infuse some joy into our coding journeys with "Happy Dev"! Install it now from the Visual Studio Code Marketplace and experience the difference firsthand. Let's embrace the power of laughter and make coding an even more enjoyable adventure together. 😄🚀
+Don't miss out on the opportunity to bring fun and happiness to your development routine. Try "Happy Dev" today, and remember to share the joy with your fellow developers!
+#HappyDev #CodingWithJoy #DeveloperLife
+Feel free to look at the source code from my GitHub Repo. Happy coding!
+
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+This extension is designed to bring a little cheer and relaxation to developers when they need a quick mood boost. By running the "happydev" command using the keyboard shortcut Ctrl+Shift+P, you'll be greeted with a funny message to brighten your day.
+``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 Features
 This extension provides the following features:
